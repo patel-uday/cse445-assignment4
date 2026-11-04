@@ -14,7 +14,7 @@
     </Address>
   </NationalPark>
   <NationalPark Rating="4.8">
-    <Name>Yellowstone</Name>
+    <Name>Yellowstone National Park</Name>
     <Phone>307-344-7381</Phone>
     <Phone>307-344-2117</Phone>
     <Address>
@@ -26,7 +26,7 @@
     </Address>
   </NationalPark>
   <NationalPark>
-    <Name>Yosemite</Name>
+    <Name>Yosemite National Park</Name>
     <Address NearestAirport="Fresno Yosemite">
       <Number>9035</Number>
       <Street>Village Drive</Street>
@@ -36,7 +36,7 @@
     </Address>
   </NationalPark>
   <NationalPark Rating="4.8">
-    <Name>Zion</Name>
+    <Name>Zion National Park</Name>
     <Name>Zion Duplicate Name</Name><Phone>435-772-3256</Phone>
     <Address NearestAirport="St George">
       <Number>1</Number>
@@ -47,7 +47,7 @@
     </Address>
   </NationalPark>
   <NationalPark>
-    <Name>Bryce Canyon</Name>
+    <Name>Bryce Canyon National Park</Name>
     <Phone>435-834-5322</Phone>
     <Address NearestAirport="Cedar City">
       <Number>1</Number>
@@ -58,7 +58,7 @@
     </Address>
   </NationalPark>
   <NationalPark Rating="4.7">
-    <Name>Arches</Name>
+    <Name>Arches National Park</Name>
     <Phone>435-719-2299</Phone>
     <Address NearestAirport="Canyonlands Field">
       <Number>5</Number>
@@ -69,7 +69,7 @@
     </Address>
   </NationalPark>
   <NationalPark>
-    <Name>Rocky Mountain</Name>
+    <Name>Rocky Mountain National Park</Name>
     <Phone>970-586-1206</Phone>
     <Phone>970-586-1222</Phone>
     <Address NearestAirport="Denver">
@@ -81,7 +81,7 @@
     </Address>
   </NationalPark>
   <NationalPark Rating="4.8">
-    <Name>Acadia</Name>
+    <Name>Acadia National Park</Name>
     <Phone>207-288-3338</Phone>
     <Address NearestAirport="Hancock County Bar Harbor">
       <Number>25</Number>
@@ -92,7 +92,7 @@
     </Address>
   </NationalPark>
   <NationalPark>
-    <Name>Great Smoky Mountains</Name>
+    <Name>Great Smoky Mountains National Park</Name>
     <Phone>865-436-1200</Phone>
     <Address NearestAirport="McGhee Tyson">
       <Number>107</Number>
@@ -103,7 +103,7 @@
     </Address>
   </NationalPark>
   <NationalPark Rating="4.7">
-    <Name>Olympic</Name>
+    <Name>Olympic National Park</Name>
     <Phone>360-565-3130</Phone>
     <Address NearestAirport="Seattle Tacoma">
       <Number>3002</Number>
@@ -114,7 +114,7 @@
     </Address>
   </NationalPark>
   <NationalPark>
-    <Name>Joshua Tree</Name>
+    <Name>Joshua Tree National Park</Name>
     <Phone>760-367-5500</Phone>
     <Address NearestAirport="Palm Springs">
       <Number>74485</Number>
